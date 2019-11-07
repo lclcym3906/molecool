@@ -7,12 +7,13 @@ molecool
 
 a python package for the workshop. molecules analyzing and visulizing
 
+just to make a change in the read me
 ### Copyright
 
 Copyright (c) 2019, Chang Liu
 
 
 #### Acknowledgements
- 
-Project based on the 
+
+Project based on the
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.

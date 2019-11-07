@@ -7,6 +7,12 @@ molecool
 
 a python package for the workshop. molecules analyzing and visulizing just to make a change in the read me
 
+This package is under development.
+
+To install type
+
+`pip install -e .`
+
 ### Copyright
 
 Copyright (c) 2019, Chang Liu
